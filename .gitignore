@@ -1,0 +1,4 @@
+debian/.debhelper
+debian/runlevel4finit*
+debian/files
+debian/debhelper-build-stamp

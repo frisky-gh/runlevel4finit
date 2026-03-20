@@ -1,0 +1,5 @@
+#!/bin/sh
+
+test -x /lib/finit/initctl && exec /lib/finit/initctl runlevel
+echo "N 2"
+exit 0
