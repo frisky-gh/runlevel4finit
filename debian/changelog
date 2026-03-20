@@ -1,3 +1,9 @@
+runlevel4finit (1.0-1) unstable; urgency=medium
+
+  * add policy-rc.d script.
+
+ -- frisky-gh <frisky-.-gh@watao3.info>  Sat, 21 Mar 2026 02:48:05 +0900
+
 runlevel4finit (0.0.1-1) unstable; urgency=medium
 
   * Initial release
